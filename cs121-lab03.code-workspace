@@ -1,0 +1,32 @@
+{
+	"folders": [
+		{
+			"path": "LabGuide"
+		},
+		{
+			"path": "A1-AccountGenerator"
+		},
+		{
+			"path": "A2-PhoneNumbers"
+		},
+		{
+			"path": "A3-DistanceCalculator"
+		},
+		{
+			"path": "A4-SphereCalculator"
+		},
+		{
+			"path": "A5-TriangleCalculator"
+		}
+	],
+	"settings": {
+		"files.exclude": {
+			"**/.git": true,
+			"**/.svn": true,
+			"**/.hg": true,
+			"**/CVS": true,
+			"**/.DS_Store": true,
+			"**/.placeholder": true
+		}
+	}
+}
