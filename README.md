@@ -7,7 +7,7 @@ Please review the [CS121 Style Guide](https://docs.google.com/document/d/1LWbGQB
 
 ### Code Quality Requirements
 - Code must compile without warnings using openjdk11
-- Code must run without errors or warnings on safe-path and boundary test cases
+- Code must run without errors or warnings on safe-path and edge test cases
 - More to come as we learn about input validation and exception handling
 ## Activity 1 - AccountGenerator (pp3.1)
 ### Problem Description
