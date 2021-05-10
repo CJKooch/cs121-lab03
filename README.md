@@ -9,7 +9,7 @@ Please review the [CS121 Style Guide](https://docs.google.com/document/d/1LWbGQB
 - Code must compile without warnings using openjdk11
 - Code must run without errors or warnings on safe-path and edge test cases
 - More to come as we learn about input validation and exception handling
-## Activity 1 - AccountGenerator (pp3.1)
+## Activity 1 - AccountGenerator
 ### Problem Description
 Write an application that prompts for and reads the user's first name and last name (separately). Then print a string composed of the first letterof the user's first name, followed by the first five characters of the user's last name, followed by a random number in the range of 10 to 99. All letters should be converted to lowercase before being displayed. Assume that the lastname is at least five letters long.  Similar algorithms are sometimes used to generate usernames for new computer accounts.  
 
@@ -27,7 +27,7 @@ Username: lhindm83
 4. Commit the changes to your local repository with a message stating that Activity 1 is completed.
 5. Push the changes from your local repository to the github classroom repository.
 
-## Activity 2 - PhoneNumbers (pp3.3)
+## Activity 2 - PhoneNumbers
 ### Problem Description
 Write an application that creates and prints a random phone number of the form XXX-XXX-XXXX. Include the dashes in the output.  Do not let the first three digits contain an 8 or 9 (but don't be more restrictive than that), and make sure that the second set of three digits is not greater than 742.  
 
@@ -45,7 +45,7 @@ A random phone number: 254-460-7860
 4. Commit the changes to your local repository with a message stating that Activity 2 is completed.
 5. Push the changes from your local repository to the github classroom repository.
 
-## Activity 3 - DistanceCalculator (pp3.4)
+## Activity 3 - DistanceCalculator
 ### Problem Description
 Write an application that reads the (x,y) coordinates for two points.  Computer the distance between the two points using the following formula:
 
@@ -67,7 +67,7 @@ The distance between (10,30) and (15,70) is 40.311288741492746
 4. Commit the changes to your local repository with a message stating that Activity 3 is completed.
 5. Push the changes from your local repository to the github classroom repository.
 
-## Activity 4 - SphereCalculator (pp3.5)
+## Activity 4 - SphereCalculator
 ### Problem Description
 Write an application that reads the radius of a sphere and prints its volume and surface area.  Use the following formulas, in which r represents the sphere's radius.  Print the output to four decimal places.
 
@@ -88,7 +88,7 @@ Surface area: 282743.3388
 5. Push the changes from your local repository to the github classroom repository.
 
 
-## Activity 5 - TriangleCalculator(pp3.6)
+## Activity 5 - TriangleCalculator
 ### Problem Description
 Write an application that reads the lengths of the sides of a triangle from the user. Compute the area of the triangle using Heron's formula (below), in which s represents half of the perimeter of the triangle, and a, b, and c represent the lengths of the three sides. Print the area to three decimal places.
 
